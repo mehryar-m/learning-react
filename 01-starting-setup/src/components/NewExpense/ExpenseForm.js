@@ -43,7 +43,7 @@ const ExpenseForm = (props) => {
 
   const cancelAddExpenseHandler = () => {
     setisAddNewExpense(true);
-}
+    }
 
 
   if (isAddNewExpense) {
